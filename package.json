@@ -1,7 +1,7 @@
 {
-  "name": "2019-seattle-coconut-workshop",
+  "name": "MVCoconut-start",
   "version": "0.0.0",
-  "description": "Seattle Macro Workshop",
+  "description": "MVCoconut-start",
   "dependencies": {
     "lix": "^15.3.12"
   },

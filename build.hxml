@@ -1,0 +1,5 @@
+-lib coconut.vdom
+-cp src
+-js public/test.js
+-main Main
+-D no-deprecation-warnings

@@ -1,5 +1,5 @@
-# 2019-seattle-coconut-workshop
+# MVCoconut-start
 
-Coconut workshop for 2019 Summit in Seattle.
+Simple rep to get going with MVCoconut
 
 `git clone && npm install`
